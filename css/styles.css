@@ -126,7 +126,7 @@ headlines:hover{
           grid-column: 1 / 13; } }
     .main .projects .card {
       position: relative;
-      z-index: 1;
+      z-index: 99;
       padding: 0 0 3rem 0;
       height: 100px;
       text-align: right; }
